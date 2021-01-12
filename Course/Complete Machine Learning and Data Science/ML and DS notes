@@ -1,0 +1,30 @@
+1. AI/Machine Learning/Data Science
+   Deep Learning < ML < AI overlaps with Data Science
+   Stanford University describes machine learning as the science of getting computers to act
+   without being explicitly programmed that is getting machines to do things without us          specifically saying something.
+   
+2. Types of ML problems
+   a. Supervised Learning - I know my inputs and outputs.
+   b. Unsupervised Learning - I'm not sure of the outputs but i have inputs.
+   c. Transfer Learning - I think my problem is similar to other problem.
+   d. Reinforcement Learning - I need to award when right and punish when wrong.
+   
+3. Why Numpy
+   Reasons for using Numpy(Numerical Python):
+   1. Numpy is written in C, so it's much faster than python list(array).
+   2. Machines understand in 1s and 0s, and it's easy for numby to convert different datas
+      (like images, strings, bool) into numbers and do the operation in it.
+   3. It's Backbone of other DS packages(like pandas).
+   
+4. Scikit-Learn is a (vast) python library used to create ML models.
+   Why sk learn ?
+   1. Built on NumPy and Matplotlib(and python)
+   2. Has many in-built machine learning models
+   3. Methods to evaluate your machine learning models
+   4. Very well-designed API
+   
+5. Refreshing: What is Machine Learning ?
+   For a normal Computer Program, we give the input and function and recieve the output.
+   But for a Machine Learning Program, we give input and output and recive a 
+   proper function(model) to get the output from the input.
+   

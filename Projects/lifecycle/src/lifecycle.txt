@@ -1,0 +1,12 @@
+1. React Lifecycle methods are categorized in 4 groups:
+   a. Mounting - Mounting means putting elements into the DOM.
+   b. Updating
+   c. Error Boundaries
+   d. Unmounting
+
+2. Some of the most Important Lifecycle methods are:
+   a. constructor()
+   b. render()
+   c. componentDidMount()
+   d. componentDidUpdate()
+   e. componentWillUnmout()
